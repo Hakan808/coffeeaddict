@@ -1,0 +1,16 @@
+table{
+    width: 50%;
+    
+}
+table th,td{
+    padding: 5px 30px;
+    border: 2px solid darkgreen;
+    background-color: rgba(85, 107, 47, 0.721);
+}
+table th:nth-child(2n){
+    background-color: darkolivegreen;
+}
+
+table td:nth-child(2n + 1){
+    background-color: darkolivegreen;
+}

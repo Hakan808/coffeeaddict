@@ -1,0 +1,10 @@
+.about{
+    background-color: darkolivegreen;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    font-family: sans-serif;
+    
+}

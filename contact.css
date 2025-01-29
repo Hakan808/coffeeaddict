@@ -1,0 +1,10 @@
+.container-form{
+    background-color: darkolivegreen;
+    padding: 10px 20px; 
+    border-bottom: 5px solid;
+    border-top: 5px solid;
+
+}
+.container-form h2{
+    color: #fff;
+}
